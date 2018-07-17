@@ -44,8 +44,8 @@ You can install requirements in this repo.
 
 ### Reference
 
-##### [Akshay Bahadur](https://github.com/akshaybahadur21/Emojinator)
-##### [Explanation](https://github.com/akshaybahadur21/Emojinator)
+[Akshay Bahadur](https://github.com/akshaybahadur21/Emojinator)
+[Explanation](https://github.com/akshaybahadur21/Emojinator)
  
  
 <img src="https://github.com/pujoseno/Hand-Expression/blob/master/hand_exp.gif">
