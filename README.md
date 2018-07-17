@@ -21,16 +21,18 @@ You can install requirements in this repo.
   * TrainHandExp.py
   * Hand_Exp.py
   * hand_exp.h5
+  * train_gest.csv
  
 ### There are 2 directories:
 * gesture : Contains images the eleven classes of gesture
 * hand_emo: Contains images hand emoticon with eleven classes
 
 ### files:
-* BuatCSV.py : Used to create or convert CSV file
+* BuatCSV.py : Used to create or convert images to CSV file
 * BuatGest.py : Used to create hand gesture for dataset
 * Hand_Exp.py : Used to Prediction model and to show hand expression
 * TrainHandExp.py : Used to training our model
+* train_gest.csv : Contains matrix pixel from images
 * Gesture : Hand gesture dataset 
 * hand_exp.h5 : Model from process training
 * model.png : Model CNN
