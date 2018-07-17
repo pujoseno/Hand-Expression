@@ -1,5 +1,6 @@
 # Hand-Expression
 Using CNN to Train Gesture Image for Hand Expression. In this case we will implementation CNN model in image recognition. In this case we using hand gesture images. What the benefit in this case? we can learn about how CNN work in Image recognition and how to prediction hand gesture Using CNN. 
+
 ### Requirements
 You can install requirements in this repo.
 
@@ -32,6 +33,10 @@ You can install requirements in this repo.
 * TrainHandExp.py : Used to training our model
 * Gesture : Hand gesture dataset 
 * hand_exp.h5 : Model from process training
+* model.png : Model CNN
+
+### Model
+<img src="https://github.com/pujoseno/Hand-Expression/blob/master/model.PNG">
 
 ### How to Run
 
@@ -45,6 +50,5 @@ You can install requirements in this repo.
 
 #### [Akshay Bahadur](https://github.com/akshaybahadur21/Emojinator)
 #### [Explanation](https://github.com/akshaybahadur21/Emojinator)
- 
  
 <img src="https://github.com/pujoseno/Hand-Expression/blob/master/hand_exp.gif">
