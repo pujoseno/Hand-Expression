@@ -1,6 +1,5 @@
 # Hand-Expression
-Using CNN to Train Gesture Image for Hand Expression.
-
+Using CNN to Train Gesture Image for Hand Expression. In this case we will implementation CNN model in image recognition. In this case we using hand gesture images. What the benefit in this case? we can learn about how CNN work in Image recognition and how to prediction hand gesture Using CNN. 
 ### Requirements
 You can install requirements in this repo.
 
