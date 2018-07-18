@@ -51,6 +51,6 @@ You can install requirements in this repo.
 ### Reference
 
 #### [Akshay Bahadur](https://github.com/akshaybahadur21/Emojinator)
-#### [Explanation](https://github.com/akshaybahadur21/Emojinator)
+#### [Explanation](http://thinkstudioo.blogspot.com/2018/07/hand-expression-menggunakan-convolution.html)
  
 <img src="https://github.com/pujoseno/Hand-Expression/blob/master/hand_exp.gif">
